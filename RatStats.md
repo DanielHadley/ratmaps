@@ -1,10 +1,10 @@
 ---
 layout: page
-title: NYC
-permalink: /NYC/
+title: Rat Stats
+permalink: /RatStats/
 ---
 
-New York City
+Rat Stats
 
 ### NYC
 

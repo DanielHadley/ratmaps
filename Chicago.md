@@ -1,12 +1,12 @@
 ---
 layout: page
-title: NYC
-permalink: /NYC/
+title: Chicago
+permalink: /Chicago/
 ---
 
-New York City
+Chicago
 
-### NYC
+### Chicago
 
 
 ![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg)

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: NYC
-permalink: /NYC/
+title: Boston
+permalink: /Boston/
 ---
 
-New York City
+Boston
 
 ### NYC
 
