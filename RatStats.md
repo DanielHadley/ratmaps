@@ -6,7 +6,6 @@ permalink: /RatStats/
 
 Rat Stats
 
-### NYC
+### Coming Soon!
 
 
-![_config.yml]({{ site.baseurl }}/images/2014_Bio/DanielHadley3.jpg)
