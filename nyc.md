@@ -18,11 +18,28 @@ Auerbach estimated that 40,500 lots were infested by rats. That's about 4.75% of
 
 Remember, each transparent dot represents one call made to the 311 line over nine years. Obviously, more populous neighborhoods will generate more calls. That said, Brooklyn is still remarkable for the volume off calls it produces. 
 
-![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_all.png)
+![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Brooklyn.png)
 
 ## Staten Island
 
 To make an unfair comparison (unfair because it has such a lower population density), here is Staten Island.
 
 ![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Staten_Island.png)
+
+## Queens
+
+![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Queens.png)
+
+## Bronx
+
+![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Bronx.png)
+
+## Uptown Manhattan
+
+![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Uptown_Manhattan.png)
+
+## Downtown
+
+![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Downtown_Manhattan.png)
+
 
