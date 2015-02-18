@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Boston
-permalink: /Boston/
+permalink: /boston/
 ---
 
 Boston

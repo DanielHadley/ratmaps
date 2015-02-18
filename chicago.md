@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chicago
-permalink: /chi/
+permalink: /chicago/
 ---
 
 Of all the cities whose data I have analyzed, Chicago gets the most calls complaining about rats. In order to visualize each call, I had to tone the maps down a bit, specifically by making the dots more transparent. Each solid dot represents about ten calls to the same address since 2011 (as opposed to my [New York City](ratmaps.com/nyc) maps, where solid dots only represent three calls and the timeframe is longer). 
