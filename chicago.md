@@ -13,8 +13,11 @@ I'm not sure why Chicago gets more calls.
 ![_config.yml]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_all.png)
 
 ## North Side
+#### North
 ![_config.yml]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_North.png)
+#### Northwest
 ![_config.yml]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Northwest.png)
+#### Far North
 ![_config.yml]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Far_North.png)
 
 ## Central
