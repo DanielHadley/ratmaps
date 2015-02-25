@@ -10,7 +10,7 @@ In the course of doing this comparison, I also made some quick maps and threw th
 
 
 ## Citywide
-![_config.yml]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_all.png) 
+![_config.yml]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_all.png) 
 
 ## Allston-Brighton
 ![_config.yml]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Allston_Brighton.png)
