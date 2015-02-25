@@ -8,7 +8,7 @@ Three years ago, the city where I work was dealing with an onslaught of rats. Li
 
 At the time, I directed the Mayor's Office of Analytics. Calls to Somerville's 311 line complaining about rodents were up 65%. Residents looked to Mayor Curtatone for help.
 
-![_config.yml]({{ site.baseurl }}/images/oneOff/images/2015_IFoughtTheRats/Rat_Calls_Somerville.png) 
+![_config.yml]({{ site.baseurl }}/images/oneOff/2015_IFoughtTheRats/Rat_Calls_Somerville.png) 
 
 I recall riding in the back seat of a vehicle while the Mayor rode shotgun. He would say things like, "My friend John told me they have a problem on Pearl Street." And, "my barber saw an infested dumpster over there." 
 
@@ -36,6 +36,6 @@ We even considered testing a rat sterilization program. But between the trash in
 
 The best way to test whether our program worked or not was to compare our data to that of Boston. I used a specialized tool, developed by data scientists at Google called "CausalImpact." The results were amazing. After implementing our new programs, calls dropped by an estimated 30%. 
 
-![_config.yml]({{ site.baseurl }}/images/oneOff/images/2015_IFoughtTheRats/Rat_Calls_Somerville_Boston.png) 
+![_config.yml]({{ site.baseurl }}/images/oneOff/2015_IFoughtTheRats/Rat_Calls_Somerville_Boston.png) 
 
 Like every city in the region, Somerville will always have a rat problem. But these results show that a city can fight back by using data and policy.  
