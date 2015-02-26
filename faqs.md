@@ -23,13 +23,13 @@ permalink: /faqs/
 #### How do rats get into my home? <a id="home"></a>
 
 They enter through any hole or crack available to them. 
-<br>
+
 
 
 #### What do rats eat in the city? <a id="eat-what"></a>
 
 Mainly trash  
-<br>
+
 
 
 ## C. About Me <a id="about-me"></a>
@@ -37,7 +37,7 @@ Mainly trash
 #### Why did you create this site? <a id="why"></a>
 
 I work for a city where rats are a perennial problem. I first wanted to see if this was the case in other cities. I hope that if people see the data, it might help them address the problem in their neighborhood.  
-<br>
+
 
 
 #### How can I contact you? <a id="contact"></a>
