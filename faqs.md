@@ -15,7 +15,7 @@ permalink: /faqs/
 # [B. Reporting Rats](#reporting-rats)
 
   + [1. How do I report a rat sighting to my city or town?](#rr-1)
-  + [2. What usually happens when I report a rat?](#rr-2)
+  + [2. What usually happens when I report a rat?](#cr-2)
   + [3. Chapter 3](#rr-3)
 
 
