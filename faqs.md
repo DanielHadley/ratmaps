@@ -7,9 +7,9 @@ permalink: /faqs/
 
 # [A. Rats in the city](#rats-in-the-city)
 
-  #### [1. How do rats get into my home?](#cr-1)
-  + [2. What do rats eat in the city?](#cr-2)
-  + [3. What do rats eat in the city?](#cr-3)
+#### [1. How do rats get into my home?](#cr-1)
+#### [2. What do rats eat in the city?](#cr-2)
+#### [3. What do rats eat in the city?](#cr-3)
 
 
 # [B. Reporting Rats](#reporting-rats)
@@ -28,9 +28,9 @@ permalink: /faqs/
 
 # A. Rats in the city <a id="rats-in-the-city"></a>
 
-	#### 1. How do rats get into my home? <a id="cr-1"></a>
+#### 1. How do rats get into my home? <a id="cr-1"></a>
 
-	They enter through any hole or crack available to them. 
+They enter through any hole or crack available to them. 
 
 
 
