@@ -28,7 +28,7 @@ permalink: /faqs/
 
 # A. Rats in the city <a id="rats-in-the-city"></a>
 
-	### 1. How do rats get into my home? <a id="cr-1"></a>
+	+ 1. How do rats get into my home? <a id="cr-1"></a>
 
 	They enter through any hole or crack available to them. 
 
