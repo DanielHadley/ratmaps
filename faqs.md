@@ -5,41 +5,46 @@ permalink: /faqs/
 ---
 
 
-# [A. Rats in the city](#rats-in-the-city)
+## [A. Rats in the city](#rats-in-the-city)
 
-#### [1. How do rats get into my home?](#cr-1)
-#### [2. What do rats eat in the city?](#cr-2)
-#### [3. What do rats eat in the city?](#cr-3)
-
-
-# [B. Reporting Rats](#reporting-rats)
-
-  + [1. How do I report a rat sighting to my city or town?](#rr-1)
-  + [2. What usually happens when I report a rat?](#cr-2)
-  + [3. Chapter 3](#rr-3)
+  + [How do rats get into my home?](#home)
+  + [What do rats eat in the city?](#eat-what)
 
 
-# [C. About Me](#about-me)
+## [C. About Me](#about-me)
 
-  + [1. Why did you create this site?](#am-1)
-  + [2. How can I contact you?](#am-2)
+  + [Why did you create this site?](#why)
+  + [How can I contact you?](#contact)
 
 
 
-# A. Rats in the city <a id="rats-in-the-city"></a>
+## A. Rats in the city <a id="rats-in-the-city"></a>
 
-#### 1. How do rats get into my home? <a id="cr-1"></a>
+#### How do rats get into my home? <a id="home"></a>
 
 They enter through any hole or crack available to them. 
 
 
-#### 2. What do rats eat in the city? <a id="cr-2"></a>
+#### What do rats eat in the city? <a id="eat-what"></a>
 
 Mainly trash  
 
 
 
+## C. About Me <a id="about-me"></a>
 
+#### Why did you create this site? <a id="why"></a>
+
+I work for a city where rats are a perennial problem. I first wanted to see if this was the case in other cities. I hope that if people see the data, it might help them address the problem in their neighborhood.  
+
+
+#### How can I contact you? <a id="contact"></a>
+
+Ratking at ratmaps.com
+
+
+
+.
 
 
 
