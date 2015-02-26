@@ -33,4 +33,14 @@ permalink: /faqs/
 They enter through any hole or crack available to them. 
 
 
+#### 2. What do rats eat in the city? <a id="cr-2"></a>
+
+Mainly trash  
+
+
+
+
+
+
+
 
