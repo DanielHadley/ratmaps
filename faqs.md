@@ -54,7 +54,7 @@ If your local government does not have a 311 line, I recommend googling the cont
 
 ## B. About This Site <a id="about-rat-maps"></a>
 
-#### Where does the data come from? <a id="here-data"></a>
+#### Where does the data come from? <a id="where-data"></a>
 
 All data come from 311 calls to the cities that are featured here. In most cases, the city has a work-order type that they use to document when a citizen calls to complain about a rat.
 
@@ -70,7 +70,9 @@ Both. Population density is correlated to the number of rodent calls both becaus
 
 #### Why did you create this site? <a id="why"></a>
 
-I work for a city where rats are a perennial problem. I first wanted to see if this was the case in other cities. I hope that if people see the data, it might help them address the problem in their neighborhood.  
+I work for a city where rats are a perennial problem. When I first started developing this project, I wanted to see if this was the case in other cities. 
+
+I hope that if people see the data, it might help them address the problem in their neighborhood. At the very least, I hope people enjoy looking at the maps and spotting trends.   
 
 
 #### How can I contact you? <a id="contact"></a>
