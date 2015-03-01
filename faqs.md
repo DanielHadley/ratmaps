@@ -8,6 +8,7 @@ permalink: /faqs/
 ## [A. Rats in the city](#rats-in-the-city)
 
   + [How do rats get into my home?](#home)
+  + [Do I have rats in my home now?](#do-home)
   + [What do rats eat in the city?](#eat-what)
   + [How can I report a rat to my city or town?](#report)
 
@@ -36,7 +37,16 @@ They enter through any hole or crack available to them. They can fit into holes 
 
 In the scariest cases, rats can even climb up through toilet plumbing, as [this nightmare-inducing gif illustrates](http://img0.joyreactor.com/pics/post/gif-rat-toilet-662598.gif).
 
-It is common for overgrowth and debris to block entry sites from a homeowner's view. That is why it is important to clear debris and inspect for possible entry sites on a semi regular basis.   
+It is common for overgrowth and debris to block entry sites from a homeowner's view. That is why it is important to clear debris and inspect for possible entry sites on a semi regular basis.
+
+
+#### Do I have rats in my home now? <a id="do-home"></a>
+
+Most rats live in nests or burrows. Burrows are holes in dirt or concrete from one to four inches wide, with smooth edges. Burrows can be found under bushes and plants. They will often have an entrance and exit hole.
+
+![_config.yml](http://googledrive.com/host/0BxOPuM_gK7bqUW85bjZUd1UwTGs/faqs/Signs_that_rats_are_in_your_home.png.png
+
+Other signs your property may be infested include rat droppings,  holes and gnaw marks on wood and plastic trash barrels, and signs of runways on walls or grass.  Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass.   
 
 
 #### What do rats eat in the city? <a id="eat-what"></a>
