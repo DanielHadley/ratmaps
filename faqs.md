@@ -44,7 +44,7 @@ It is common for overgrowth and debris to block entry sites from a homeowner's v
 
 Most rats live in nests or burrows. Burrows are holes in dirt or concrete from one to four inches wide, with smooth edges. Burrows can be found under bushes and plants. They will often have an entrance and exit hole.
 
-![_config.yml](http://googledrive.com/host/0BxOPuM_gK7bqUW85bjZUd1UwTGs/faqs/Signs_that_rats_are_in_your_home.png)
+![signs that rats are in your home](http://googledrive.com/host/0BxOPuM_gK7bqUW85bjZUd1UwTGs/faqs/Signs_that_rats_are_in_your_home.png)
 
 Other signs your property may be infested include rat droppings,  holes and gnaw marks on wood and plastic trash barrels, and signs of runways on walls or grass.  Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass.   
 
