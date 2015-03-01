@@ -4,8 +4,6 @@ title: Rat Stats
 permalink: /stats/
 ---
 
-## Relevant Posts 
-
 + [How My City is Fighting Rats and Winning]({{ site.baseurl }}/i-fought-the-rats)
 
 ****
