@@ -5,51 +5,48 @@ permalink: /rat-control/
 ---
 
 
-## [A. How do I find and get rid of rats?](#rats-in-the-home)
+# [A. What are signs that I have rats in my home or yard?](#rats-in-the-home)
 
-  + [How do rats get into my home?](#home)
-  + [Do I have rats in my home now?](#do-home)
-  + [What do rats eat in the city?](#eat-what)
-  + [How can I report a rat to my city or town?](#report)
+  + [Burrows, tracks, gnaw marks and droppings](#signs)
+  + [Clusters of sightings](#clusters)
 
-
-## [B. About this site](#about-rat-maps)
+# [B. How do I get rid of rats in my home or yard?](#about-rat-maps)
 
   + [Where does the data come from?](#where-data)
   + [Do more calls mean more rats, or more people to call about rats?](#more-calls-mean)
 
 
-## [C. About Me](#about-me)
+# [C. How can I keep rats from coming back?](#about-me)
 
   + [Why did you create this site?](#why)
   + [How can I contact you?](#contact)
 
 
-# Answers
 
 ****
 
-## A. Rats in the city <a id="rats-in-the-home"></a>
+# A. What are signs that I have rats in my home or yard? <a id="rats-in-the-home"></a>
 
-#### How do rats get into my home? <a id="home"></a>
-
-They enter through any hole or crack available to them. They can fit into holes that are barely the size of a quarter, such as gaps in the drywall or small holes for pipes or wires. They often chew through vents, or find loose siding. If gaps around a door are larger than 3/8 inch, rats can squeeze through those too.  
-
-In the scariest cases, rats can even climb up through toilet plumbing, as [this nightmare-inducing gif illustrates](http://img0.joyreactor.com/pics/post/gif-rat-toilet-662598.gif).
-
-It is common for overgrowth and debris to block entry sites from a homeowner's view. That is why it is important to clear debris and inspect for possible entry sites on a semi regular basis.
-
-
-#### Do I have rats in my home now? <a id="do-home"></a>
+### Burrows, tracks, gnaw marks and droppings <a id="signs"></a>
 
 Most rats live in nests or burrows. Burrows are holes in dirt or concrete from one to four inches wide, with smooth edges. Burrows can be found under bushes and plants. They will often have an entrance and exit hole.
 
 ![signs that rats are in your home](http://googledrive.com/host/0BxOPuM_gK7bqUW85bjZUd1UwTGs/faqs/Signs_that_rats_are_in_your_home.png)
 
-Other signs your property may be infested include rat droppings,  holes and gnaw marks on wood and plastic trash barrels, and signs of runways on walls or grass.  Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass.   
+Other signs your property may be infested include
+
++ rat droppings
++ chewed holes in walls, doors, or floors
++ holes and gnaw marks on trash barrels
++ holes in bags of pet food, trash, or bird seed
++ signs of runways on walls or grass.  
+
+Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass.   
 
 
-#### What do rats eat in the city? <a id="eat-what"></a>
+### Clusters of sightings <a id="clusters"></a>
+
+If your city is one that is [featured on Rat Maps](ratmaps.com/cities), you may be able to visually inspect the maps to look for clusters of sightings in your neighborhood. A group of several sightings may indicate that rodents are prevalent in a certain neighborhood. It may also mean that people are very proactive about calling the city to report rats, so be sure to check for other signs before assuming that your house has a problem.   
 
 Mainly human trash, although they also eat pet food and pet waste, fruit from trees, and even other rats in hard times. They have been known to [develop a taste for familiar foods](http://nymag.com/daily/intelligencer/2013/03/new-york-city-rats-wont-eat-just-anything.html).
 
