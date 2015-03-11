@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rat Control Guide
-permalink: /rat-control/
+permalink: /control/
 ---
 
 
