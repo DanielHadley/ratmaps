@@ -8,7 +8,7 @@ Three years ago, the city where I work was dealing with an onslaught of rats. Li
 
 At the time, I directed the Mayor's Office of Innovation and Analytics. Calls to Somerville's 311 line complaining about rodents were up 65%. Residents looked to Mayor Curtatone for help.
 
-![_config.yml]({{ site.onsite }}/2015_IFoughtTheRats/Rat_Calls_Somerville.png) 
+![_config.yml]({{ site.baseurl }}/images/2015_IFoughtTheRats/Rat_Calls_Somerville.png) 
 
 I recall riding in the back seat of a vehicle while the Mayor rode shotgun. He would say things like, "My friend John told me they have a problem on Pearl Street." And, "my barber saw an infested dumpster over there." 
 
