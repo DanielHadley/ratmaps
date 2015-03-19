@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chicago Neighborhoods
-permalink: /chicago/neighborhoods
+permalink: /chicago/neighborhoods/
 ---
 
 + [Archer Heights](#Archer_Heights)
