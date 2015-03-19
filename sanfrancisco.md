@@ -10,13 +10,13 @@ That said, I think the maps give a plausible sense of where rodents might be loc
 
 
 ## Citywide
-![san francisco rat calls to 311 map]({{ site.baseurl }}/images/oneOff/San_Francisco_Rat_Map_all.png) 
+![san francisco rat calls to 311 map]({{ site.cityimages }}/San_Francisco_Rat_Map_all.png) 
 
 ## Chinatown
-![san francisco rat calls to 311 map]({{ site.baseurl }}/images/oneOff/San_Francisco_Rat_Map_Chinatown.png)
+![san francisco rat calls to 311 map]({{ site.cityimages }}/San_Francisco_Rat_Map_Chinatown.png)
 
 ## The Mission District
-![san francisco rat calls to 311 map]({{ site.baseurl }}/images/oneOff/San_Francisco_Rat_Map_Mission.png)
+![san francisco rat calls to 311 map]({{ site.cityimages }}/San_Francisco_Rat_Map_Mission.png)
 
 ## Tenderloin
-![san francisco rat calls to 311 map]({{ site.baseurl }}/images/oneOff/San_Francisco_Rat_Map_Tenderloin.png)
+![san francisco rat calls to 311 map]({{ site.cityimages }}/San_Francisco_Rat_Map_Tenderloin.png)

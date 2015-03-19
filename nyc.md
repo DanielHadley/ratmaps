@@ -12,34 +12,34 @@ Where are New York City's rats seen most often? How many of them are there? One 
 
 Auerbach estimated that 40,500 lots were infested by rats. That's about 4.75% of all lots in the City. It's impossible to tell from the maps exactly which lots are infested; but it is possible to get a sense of which neighborhoods report more rat sightings.  
 
-![new york city rat calls to 311 map]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_all.png) 
+![new york city rat calls to 311 map]({{ site.cityimages }}/NYC_Rat_Map_all.png) 
 
 ## Brooklyn
 
 Remember, each transparent dot represents one call made to the 311 line over nine years. Obviously, more populous neighborhoods will generate more calls. That said, Brooklyn is still remarkable for the volume off calls it produces. 
 
-![new york city rat calls to 311 map Brooklyn]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Brooklyn.png)
+![new york city rat calls to 311 map Brooklyn]({{ site.cityimages }}/NYC_Rat_Map_Brooklyn.png)
 
 ## Staten Island
 
 To make an unfair comparison (unfair because it has such a lower population density), here is Staten Island.
 
-![new york city rat calls to 311 map Staten Island]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Staten_Island.png)
+![new york city rat calls to 311 map Staten Island]({{ site.cityimages }}/NYC_Rat_Map_Staten_Island.png)
 
 ## Queens
 
-![new york city rat calls to 311 map Queens]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Queens.png)
+![new york city rat calls to 311 map Queens]({{ site.cityimages }}/NYC_Rat_Map_Queens.png)
 
 ## Bronx
 
-![new york city rat calls to 311 map Bronx]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Bronx.png)
+![new york city rat calls to 311 map Bronx]({{ site.cityimages }}/NYC_Rat_Map_Bronx.png)
 
 ## Uptown Manhattan
 
-![new york city rat calls to 311 map Uptown Manhattan]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Uptown_Manhattan.png)
+![new york city rat calls to 311 map Uptown Manhattan]({{ site.cityimages }}/NYC_Rat_Map_Uptown_Manhattan.png)
 
 ## Downtown
 
-![new york city rat calls to 311 map Downtown Manhattan]({{ site.baseurl }}/images/oneOff/NYC_Rat_Map_Downtown_Manhattan.png)
+![new york city rat calls to 311 map Downtown Manhattan]({{ site.cityimages }}/NYC_Rat_Map_Downtown_Manhattan.png)
 
 

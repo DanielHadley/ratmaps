@@ -5,18 +5,18 @@ permalink: /control/
 ---
 
 
-# [A. What are signs that I have rats in my home or yard?](#rats-in-the-home)
+## [A. What are signs that I have rats in my home or yard?](#rats-in-the-home)
 
   + [Burrows, tracks, gnaw marks and droppings](#signs)
   + [Clusters of sightings](#clusters)
 
-# [B. How do I get rid of rats in my home or yard?](#about-rat-maps)
+## [B. How do I get rid of rats in my home or yard?](#about-rat-maps)
 
   + [Where does the data come from?](#where-data)
   + [Do more calls mean more rats, or more people to call about rats?](#more-calls-mean)
 
 
-# [C. How can I keep rats from coming back?](#about-me)
+## [C. How can I keep rats from coming back?](#about-me)
 
   + [Why did you create this site?](#why)
   + [How can I contact you?](#contact)
@@ -25,7 +25,7 @@ permalink: /control/
 
 ****
 
-# A. What are signs that I have rats in my home or yard? <a id="rats-in-the-home"></a>
+## A. What are signs that I have rats in my home or yard? <a id="rats-in-the-home"></a>
 
 ### Burrows, tracks, gnaw marks and droppings <a id="signs"></a>
 

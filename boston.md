@@ -10,21 +10,21 @@ In the course of doing this comparison, I also made some quick maps and threw th
 
 
 ## Citywide
-![Boston rat calls to 311 map]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_all.png) 
+![Boston rat calls to 311 map]({{ site.cityimages }}/Boston_Rat_Map_all.png) 
 
 ## Allston-Brighton
-![Boston rat calls to 311 map Allston Brighton]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Allston_Brighton.png)
+![Boston rat calls to 311 map Allston Brighton]({{ site.cityimages }}/Boston_Rat_Map_Allston_Brighton.png)
 
 ## Back Bay
-![Boston rat calls to 311 map Back Bay]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Back_Bay.png)
+![Boston rat calls to 311 map Back Bay]({{ site.cityimages }}/Boston_Rat_Map_Back_Bay.png)
 
 ## Downtown
-![Boston rat calls to 311 map Downtown]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Downtown.png)
+![Boston rat calls to 311 map Downtown]({{ site.cityimages }}/Boston_Rat_Map_Downtown.png)
 
 ## Eastie
-![Boston rat calls to 311 map Eastie]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Eastie.png)
+![Boston rat calls to 311 map Eastie]({{ site.cityimages }}/Boston_Rat_Map_Eastie.png)
 
 ## Dorchester
-![Boston rat calls to 311 map Dorchester]({{ site.baseurl }}/images/oneOff/Boston_Rat_Map_Uphams_Corner.png)
+![Boston rat calls to 311 map Dorchester]({{ site.cityimages }}/Boston_Rat_Map_Uphams_Corner.png)
 
 

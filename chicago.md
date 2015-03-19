@@ -10,24 +10,24 @@ I'm not sure why Chicago gets more calls.
 
 ## Citywide 
 
-![chicago rat calls to 311 map]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_all.png)
+![chicago rat calls to 311 map]({{ site.cityimages }}/Chicago_Rat_Map_all.png)
 
 ## North Side
-![chicago rat calls to 311 map North]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_North.png)
+![chicago rat calls to 311 map North]({{ site.cityimages }}/Chicago_Rat_Map_North.png)
 Northwest
-![chicago rat calls to 311 map Northwest]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Northwest.png)
+![chicago rat calls to 311 map Northwest]({{ site.cityimages }}/Chicago_Rat_Map_Northwest.png)
 Far North
-![chicago rat calls to 311 map Far North]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Far_North.png)
+![chicago rat calls to 311 map Far North]({{ site.cityimages }}/Chicago_Rat_Map_Far_North.png)
 
 ## Central
-![chicago rat calls to 311 map Central]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Central.png)
+![chicago rat calls to 311 map Central]({{ site.cityimages }}/Chicago_Rat_Map_Central.png)
 West
-![chicago rat calls to 311 map West]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_West.png)
+![chicago rat calls to 311 map West]({{ site.cityimages }}/Chicago_Rat_Map_West.png)
 
 ## South Side
-![chicago rat calls to 311 map South]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_South.png)
+![chicago rat calls to 311 map South]({{ site.cityimages }}/Chicago_Rat_Map_South.png)
 Far Southeast
-![chicago rat calls to 311 map Southeast]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Far_Southeast.png)
+![chicago rat calls to 311 map Southeast]({{ site.cityimages }}/Chicago_Rat_Map_Far_Southeast.png)
 Far Southwest
-![chicago rat calls to 311 map Southwest]({{ site.baseurl }}/images/oneOff/Chicago_Rat_Map_Far_Southwest.png)
+![chicago rat calls to 311 map Southwest]({{ site.cityimages }}/Chicago_Rat_Map_Far_Southwest.png)
 
