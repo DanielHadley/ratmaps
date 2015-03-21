@@ -13,7 +13,7 @@ permalink: /control/
 ## [B. How do I get rid of rats?](#get-rid-of-rats)
 
   + [Trap them](#trap-rats)
-  + [Bait them with poison](#more-calls-mean)
+  + [Bait them with poison](#bait-rats)
 
 ## [C. How can I keep rats from coming back?](#keep-rats-away)
 
@@ -54,17 +54,33 @@ Many experts recommend cleaning and rat-proofing your house before trapping and 
 
 ### Trap them <a id="trap-rats"></a>
 
-Rat traps have gone through an interesting evolution - from [this hilarious contraptionn](http://i.imgur.com/oSFEBLY.jpg) to what is arguably the cleanest, easiest, and least disgusting solution on the market today: the Rat Zapper.
+Rat traps have gone through an interesting evolution - from [this hilarious contraption](http://i.imgur.com/oSFEBLY.jpg) to what is arguably the cleanest, easiest, and least disgusting solution on the market today: the Rat Zapper.
 
 <a href="http://www.amazon.com/gp/product/B002665ZTC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B002665ZTC&linkCode=as2&tag=rama0f9-20&linkId=A7YKGIUMNJSBVJH3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002665ZTC&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B002665ZTC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 To use this trap, you simply put pet food or peanut butter in the chamber, turn it on, wait until the LED light glows red, and then tip it into a garbage can to let the dead rodent slip out. You don't run the risk of getting rat guts all over, as you might from a snap trap. Instead, rodents are shocked with a quick but powerful jolt of electricity.
 
-### Humane traps
+### Snap, glue, and humane traps
 
-For those who would prefer to avoid killing rats, the humane solution is to place bait in the back of an animal trap, and then check it frequently to release any caged rats back into the wild.  
+The main alternatives to an electric trap are snap traps:
+
+<a href="http://www.amazon.com/gp/product/B001AZJK46/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001AZJK46&linkCode=as2&tag=rama0f9-20&linkId=TZTEUBVQHXJHPMU5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001AZJK46&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B001AZJK46" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+Glue traps:
+
+<a href="http://www.amazon.com/gp/product/B0010KZCS4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0010KZCS4&linkCode=as2&tag=rama0f9-20&linkId=WTKY2D3PC4BBATNO"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0010KZCS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B0010KZCS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+And humane traps:
+
+For those who would prefer to avoid killing rats or waking up to something [like this](http://imgur.com/sItkaVY), the humane solution is to place bait in the back of an animal trap, and then check it frequently to release any caged rats back into the wild.  
 
 <a href="http://www.amazon.com/gp/product/B000BPAVCG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BPAVCG&linkCode=as2&tag=rama0f9-20&linkId=VGDJBINVXTXJ4HCG"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BPAVCG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000BPAVCG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+****
+
+### Bait them with poison <a id="bait-rats"></a>
+
+
 
 <br>
 
