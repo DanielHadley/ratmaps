@@ -43,7 +43,12 @@ Other signs your property may be infested include
 + holes in bags of pet food, trash, or bird seed
 + signs of runways on walls or grass.  
 
-Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass.   
+Rats run along the same path many times a day, leaving dark greasy track marks along walls and worn down paths in grass. 
+
+
+### Clusters of sightings <a id="clusters"></a>
+
+If your city is one that is [featured on Rat Maps](ratmaps.com/cities), you may be able to visually inspect the maps to look for clusters of sightings in your neighborhood. A group of several sightings may indicate that rodents are prevalent in a certain neighborhood. It may also mean that people are very proactive about calling the city to report rats, so be sure to check for other signs before assuming that your house has a problem.   
 
 
 ****
