@@ -114,13 +114,15 @@ That said, one of the more popular solutions is the Tomcat Bait Chunx:
 
 </center>
 
-I recommend reading carefully about how to place rodenticides out of the reach of pets and children, and possibly consulting an expert, such as a professional pest control worker. 
+I recommend reading carefully about how to place rodenticides in bait stations out of the reach of pets and children, and possibly consulting an expert, such as a professional pest control worker. 
 
 ****
 
 ## C. How can I keep rats from coming back? <a id="keep-rats-away"></a>
 
-We are going to get into some DIY projects, so get your tools ready. 
+We are going to get into some DIY projects, so get your tools ready.
+
+![rat control tools]({{ site.cityimages }}/control/Rodent_Control_Tools.png) 
 
 ### Wash away droppings and track marks <a id="wash"></a>
 
@@ -162,6 +164,7 @@ Rats are often found in burrows under bushes and plants.
 Rats only need one ounce of food each day. Don’t make your garbage their food. 
 
 Manage Your Garbage:
+
 + Bring trash barrels to the curb as close to pick-up time as possible. Leaving bags outside overnight invites rats.
 + Recycle as much as possible to reduce trash.
 + Make sure you have enough trash barrels with tight lids to hold trash during the week between pickups.
@@ -175,6 +178,7 @@ Manage Your Garbage:
 </center>
 
 Keep Food Away:
+
 + Keep all food in tightly sealed containers.
 + Don’t put food out for stray cats, pigeons, or squirrels.
 + Put bird food in feeders only, and don’t overfeed. Store seeds in containers with tight lids.
@@ -212,7 +216,6 @@ Rats chew holes into buildings, and can squeeze through cracks and holes as smal
 + Consider installing sheet metal between foundations and the ground.
 
 <center>
-	click image for details
 
 <a href="http://www.amazon.com/gp/product/B000LNU2AY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000LNU2AY&linkCode=as2&tag=rama0f9-20&linkId=CL2H6QYW52MDVWVA"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000LNU2AY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000LNU2AY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -223,7 +226,6 @@ Rats chew holes into buildings, and can squeeze through cracks and holes as smal
 + Seal pipes leading into walls with escutcheon plates (“pipe collars”). Check pipes regularly for leaks.
 
 <center>
-	click image for details
 
 <a href="http://www.amazon.com/gp/product/B000ZZYQ5A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000ZZYQ5A&linkCode=as2&tag=rama0f9-20&linkId=P5XD7NOVYQEMQ3X5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000ZZYQ5A&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000ZZYQ5A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
@@ -235,7 +237,6 @@ Rats chew holes into buildings, and can squeeze through cracks and holes as smal
 + Close burrows in cracked or broken sidewalks with metal filler and cement.
 
 <center>
-	click image for details
 
 <a href="http://www.amazon.com/gp/product/B000BWY7UQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BWY7UQ&linkCode=as2&tag=rama0f9-20&linkId=2L5GFR5FOU7GYQKE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BWY7UQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000BWY7UQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
