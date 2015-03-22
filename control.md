@@ -19,6 +19,7 @@ permalink: /control/
 
   + [Wash away droppings and track marks](#wash)
   + [Get rid of clutter](#clutter)
+  + [Control Weeds, Shrubs and Bushes](#overgrowth)
   + [Starve them](#starve-them)
   + [Seal cracks, gaps, and holes](#seal-spaces)
   + [Close burrows](close-burrows)
@@ -108,18 +109,72 @@ Rats communicate and attract each other through their urine and droppings. Sweep
 <a href="http://www.amazon.com/gp/product/B00FDX7YD0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FDX7YD0&linkCode=as2&tag=rama0f9-20&linkId=GLTVDBHPRHLYITI4"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00FDX7YD0&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B00FDX7YD0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
-****
-
 ### Get rid of clutter <a id="clutter"></a>
 
 Clutter gives rats lots of places to hide, sleep, nest and reproduce. 
 
-	+ Remove (and recycle) piles of newspapers, paper bags, cardboard and bottles.
-	+ Clear out your basement and yard.
-	+ Store items away from walls and off the ground.
++ Remove (and recycle) piles of newspapers, paper bags, cardboard and bottles.
++ Clear out your basement and yard.
++ Store items away from walls and off the ground.
 
 
+### Control Weeds, Shrubs and Bushes <a id="overgrowth"></a>
 
+Rats are often found in burrows under bushes and plants.
+
++ Keep tall grass, bushes, shrubs and mulch away from building foundations. 
++ Pull out ivy around burrows.
++ Keep ground bare six inches from buildings, and trim under shrubs.
++ Make space between plants and avoid dense planting.
++ Keep gardens free of weeds and trash.
+
+<a href="http://www.amazon.com/gp/product/B00CD2WB3C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CD2WB3C&linkCode=as2&tag=rama0f9-20&linkId=VSJMP3MKH65XPFAR"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CD2WB3C&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B00CD2WB3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+### Starve them <a id="starve-them"></a>
+
+Rats only need one ounce of food each day. Don’t make your garbage their food. 
+
+Manage Your Garbage:
++ Bring trash barrels to the curb as close to pick-up time as possible. Leaving bags outside overnight invites rats.
++ Recycle as much as possible to reduce trash.
++ Make sure you have enough trash barrels with tight lids to hold trash during the week between pickups.
++ Use hard plastic or metal trash barrels with tight fitting lids. Look for gnaw holes.
++ Insist that tenants put garbage inside trash barrels.
+
+<a href="http://www.amazon.com/gp/product/B00DPJN9N8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DPJN9N8&linkCode=as2&tag=rama0f9-20&linkId=ZYTDXN6RPKCUCYU3"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00DPJN9N8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B00DPJN9N8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+Keep Food Away:
++ Keep all food in tightly sealed containers.
++ Don’t put food out for stray cats, pigeons, or squirrels.
++ Put bird food in feeders only, and don’t overfeed. Store seeds in containers with tight lids.
++ Compost properly.
+
+
+### Seal cracks, gaps, and holes <a id="seal-spaces"></a>
+
+Rats chew holes into buildings, and can squeeze through cracks and holes as small as a half inch. To keep rats out for good, seal all holes and cracks in foundations, walls, floors, underneath doors and around windows. Materials are inexpensive and can be purchased by following links from the images below.
+
++ Seal cracks and small holes with caulk. Or use roofing cement – it’s durable and easily applied with a caulking gun.
+
+<a href="http://www.amazon.com/gp/product/B000BZ60NU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BZ60NU&linkCode=as2&tag=rama0f9-20&linkId=YYMWLKGRAQGT6XJ6"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BZ60NU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000BZ60NU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://www.amazon.com/gp/product/B000BQS5GO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BQS5GO&linkCode=as2&tag=rama0f9-20&linkId=TVB5ZHJJ6DERWBE5"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BQS5GO&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000BQS5GO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
++ Use mortar or ready-mix cement to fill gaps and holes in cement and stone foundations. Cover large holes with metal lathe or screening, then seal with mortar or cement.
+
+<center>
+
+<a href="http://www.amazon.com/gp/product/B000BWY7UQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000BWY7UQ&linkCode=as2&tag=rama0f9-20&linkId=2L5GFR5FOU7GYQKE"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000BWY7UQ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B000BWY7UQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<a href="http://www.amazon.com/gp/product/B0013HFLZI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0013HFLZI&linkCode=as2&tag=rama0f9-20&linkId=OBTVFJBG7KPJO5GF"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0013HFLZI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=rama0f9-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=rama0f9-20&l=as2&o=1&a=B0013HFLZI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+</center>
+
++ Close gaps under doors with rodent-resistant metal door sweeps.
++ Close window gaps with metal flashing.
++ Put screens on vents, especially on lower floors.
 
 <br>
 
