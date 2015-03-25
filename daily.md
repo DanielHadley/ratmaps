@@ -12,6 +12,7 @@ tags: Chicago NYC weekly daily rats
 ****
 
 # Chicago <a id="chicago"><a>
+
 ### Daily
 Yesterday (March 23), there were 45 calls to Chicago's 311 line about rats.
 ![Chicago rat calls to 311 weekly map]({{ site.cityimages }}/daily/Chicago_Rat_Map_Daily.png)
