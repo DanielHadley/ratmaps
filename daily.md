@@ -12,6 +12,7 @@ tags: Chicago NYC weekly daily rats
 ****
 
 # Chicago <a id="chicago"><a>
+
 ### Daily
 
 Yesterday (March 24), there were 0 calls to Chicago's 311 line about rats.
