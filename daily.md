@@ -15,11 +15,11 @@ tags: Chicago NYC weekly daily rats
 
 ### Daily
 
-Yesterday (March 26), there were 95 calls to Chicago's 311 line about rats.
+Yesterday (March 27), there were 78 calls to Chicago's 311 line about rats.
 ![Chicago rat calls to 311 weekly map]({{ site.cityimages }}/daily/Chicago_Rat_Map_Daily.png)
 
 ### Weekly
-Between March 20 and March 26, there were 473 calls to Chicago's 311 line about rats. The average number of weekly calls for this time of year is 580.
+Between March 21 and March 27, there were 448 calls to Chicago's 311 line about rats. The average number of weekly calls for this time of year is 580.
 ![Chicago rat calls to 311 weekly map]({{ site.cityimages }}/daily/Chicago_Rat_Map_Weekly.png)
 
 Each red dot represents one call about a rat seen in that location. The dots are transparent, so multiple calls from one location will be seen as a solid dot. The usual caveats apply: more calls do not necessarily mean that there are more rats in that location than other parts of the city. A cluster of dots could indicate that one resident is unusually vocal about rodents in his or her neighborhood. Also, more densely populated neighborhoods tend to make more calls to 311.
