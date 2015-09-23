@@ -15,22 +15,22 @@ tags: Chicago NYC weekly daily rats
 
 ### Daily
 
-Yesterday (September 21), there were 196 calls to Chicago's 311 line about rats.
+Yesterday (September 22), there were 183 calls to Chicago's 311 line about rats.
 ![Chicago rat calls to 311 weekly map]({{ site.cityimages }}/daily/Chicago_Rat_Map_Daily.png)
 
 ### Weekly
-Between September 15 and September 21, there were 1039 calls to Chicago's 311 line about rats. The average number of weekly calls for this time of year is 850.
+Between September 16 and September 22, there were 1017 calls to Chicago's 311 line about rats. The average number of weekly calls for this time of year is 812.
 ![Chicago rat calls to 311 weekly map]({{ site.cityimages }}/daily/Chicago_Rat_Map_Weekly.png)
 ***
 # New York City <a id="nyc"><a>
 
 ### Daily
 
-Yesterday (September 21), there were 0 calls to New York City's 311 line about rats.
+Yesterday (September 22), there were 0 calls to New York City's 311 line about rats.
 ![NYC rat calls to 311 weekly map]({{ site.cityimages }}/daily/NYC_Rat_Map_Daily.png)
 
 ### Weekly
-Between September 15 and September 21, there were 0 calls to New York City's 311 line about rats. The average number of weekly calls for this time of year is 253.
+Between September 16 and September 22, there were 0 calls to New York City's 311 line about rats. The average number of weekly calls for this time of year is 249.
 ![NYC rat calls to 311 weekly map]({{ site.cityimages }}/daily/NYC_Rat_Map_Weekly.png)
 
 Each red dot represents one call about a rat seen in that location. The dots are transparent, so multiple calls from one location will be seen as a solid dot. The usual caveats apply: more calls do not necessarily mean that there are more rats in that location than other parts of the city. A cluster of dots could indicate that one resident is unusually vocal about rodents in his or her neighborhood. Also, more densely populated neighborhoods tend to make more calls to 311.
