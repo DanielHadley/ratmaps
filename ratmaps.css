@@ -1,0 +1,13 @@
+body {
+  padding-top: 3rem;
+}
+.ratmaps-main {
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+.ratmaps-main img {
+    border: 0;
+    max-height: 15rem;
+    padding: 1rem;
+}
