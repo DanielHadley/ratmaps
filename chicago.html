@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Rat Maps</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="ratmaps.css" rel="stylesheet">
+
+    <!-- Leaflet scripts -->
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+    <!-- Heatmap Leaflet and the data: http://www.d3noob.org/2014/02/generate-heatmap-with-leafletheat-and.html -->
+    <script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
+    <script src="/geo/yearly_chicago.js"></script>
+
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
+      <a class="navbar-brand" href="/">Rat Maps</a>
+      <ul class="nav navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="/nyc">NYC <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="container">
+
+      <div class="ratmaps-main">
+        <h1>New York City</h1>
+      </div>
+
+      <div class="row"> <!-- daily row -->
+
+        <div class="col-md-12">
+          <h3>Here are all the calls to NYC's 311 line about rats from the last seven days.</h3>
+          <div id="uniquecs-map" style="height: 400px"></div>
+          <script>
+
+            // initialize the map
+            var umap = L.map('uniquecs-map', {scrollWheelZoom:false}).setView([40.71278, -74.00594], 13);
+
+            // load a tile layer
+            L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', subdomains: 'abcd', maxZoom: 19}).addTo(umap);
+
+            // load GeoJSON from an external file: gis.stackexchange.com/questions/68489/how-to-load-external-geojson-file-into-leaflet-map
+
+            // Function to make popup
+            function onEachFeatureU(feature, layer) {
+              popupOptions = {maxWidth: 200};
+              layer.bindPopup("<b>Date:</b> " + feature.properties.date,
+                popupOptions);
+             }
+
+            function pointToLayerU (feature, latlng) {
+                return new L.CircleMarker(latlng, {
+                    radius: 10,
+                    fillColor: "#FF0000",
+                    color: "#000",
+                    weight: 1,
+                    opacity: .75,
+                    fillOpacity: 0.4
+                  })
+              }
+
+            $.ajax({
+            dataType: "json",
+            url: "./geo/daily_nyc.geojson",
+            success: function (response) {
+                  geojsonLayer = L.geoJson(response, {
+                    pointToLayer: pointToLayerU,
+                    onEachFeature: onEachFeatureU
+                  }).addTo(umap);
+              }
+            }).error(function() {});
+          </script>
+        </div>
+      </div> <!-- / daily row -->
+
+
+      <div class="row"> <!-- annual row -->
+
+        <div class="col-md-12">
+          <h3>Here are all the calls to NYC's 311 line about rats from the last seven days.</h3>
+          <div id="uniquecs-map" style="height: 400px"></div>
+          <script>
+           var map = L.map('map').setView([41.87811,-87.6298], 10);
+           mapLink = 
+               '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+           L.tileLayer(
+               'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+               attribution: '&copy; ' + mapLink + ' Contributors',
+               maxZoom: 18,
+           }).addTo(map);
+           
+           var heat = L.heatLayer(ratPoints,{
+               radius: 20,
+               blur: 15, 
+               maxZoom: 17,
+           }).addTo(map);
+          </script>
+        </div>
+      </div> <!-- / annual row -->
+
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+  </body>
+</html>
