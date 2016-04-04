@@ -59,6 +59,13 @@
 
             // load GeoJSON from an external file: gis.stackexchange.com/questions/68489/how-to-load-external-geojson-file-into-leaflet-map
 
+            // Function to make popup
+            function onEachFeatureU(feature, layer) {
+              popupOptions = {maxWidth: 200};
+              layer.bindPopup("<b>Date:</b> " + feature.properties.date,
+                popupOptions);
+             }
+
             function pointToLayerU (feature, latlng) {
                 return new L.CircleMarker(latlng, {
                     radius: 10,
@@ -75,7 +82,8 @@
             url: "./geo/daily_nyc.geojson",
             success: function (response) {
                   geojsonLayer = L.geoJson(response, {
-                    pointToLayer: pointToLayerU
+                    pointToLayer: pointToLayerU,
+                    onEachFeature: onEachFeatureU
                   }).addTo(umap);
               }
             }).error(function() {});
