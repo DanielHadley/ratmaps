@@ -65,7 +65,7 @@
           <script>
 
             // initialize the map
-            var umap = L.map('uniquecs-map', {scrollWheelZoom:false}).setView([41.87811,-87.6298], 12);
+            var umap = L.map('uniquecs-map', {scrollWheelZoom:false}).setView([41.87811,-87.6298], 13);
 
             // load a tile layer
             L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', subdomains: 'abcd', maxZoom: 19}).addTo(umap);
@@ -112,7 +112,7 @@
           <h4>And here is a heatmap of calls from the year 2015. Of all the cities whose data I have analyzed, Chicago gets the most calls complaining about rats. This map shows the geographic trends from almost 30,000 calls.</h3>
           <div id="map" style="height: 400px"></div>
           <script>
-           var map = L.map('map').setView([41.87811,-87.6298], 12);
+           var map = L.map('map').setView([41.87811,-87.6298], 13);
 
            L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', subdomains: 'abcd', maxZoom: 19}
@@ -121,7 +121,7 @@
            var heat = L.heatLayer(ratPoints,{
                radius: 20,
                blur: 15, 
-               maxZoom: 17,
+               maxZoom: 19,
            }).addTo(map);
           </script>
         </div>
