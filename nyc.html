@@ -61,26 +61,10 @@
 
             // load GeoJSON from an external file: gis.stackexchange.com/questions/68489/how-to-load-external-geojson-file-into-leaflet-map
 
-            // Function to make popup
-            function onEachFeatureU(feature, layer) {
-              popupOptions = {maxWidth: 200};
-              layer.bindPopup("<b>Date:</b> " + feature.properties.Date +
-                "<br><b>Type: </b>" + feature.properties.typeName +
-                "<br><b>Comments: </b>" + feature.properties.comments,
-                popupOptions);
-                }
-
-            function fillingU(x) {
-              return x == <!--rinline I(shQuote(names(forChart_TopThree_cs[3]))) --> ? "#8bbc21" :
-                     x == <!--rinline I(shQuote(names(forChart_TopThree_cs[2]))) --> ? "#0d233a" :
-                     x == <!--rinline I(shQuote(names(forChart_TopThree_cs[1]))) --> ? "#2f7ed8" :
-                     "#808080";
-            }         
-
             function pointToLayerU (feature, latlng) {
                 return new L.CircleMarker(latlng, {
                     radius: 10,
-                    fillColor: fillingU(feature.properties["typeName"]),
+                    fillColor: "#FF0000",
                     color: "#000",
                     weight: 1,
                     opacity: .75,
@@ -90,11 +74,10 @@
 
             $.ajax({
             dataType: "json",
-            url: "./geo/daily/UniqueCS.geojson",
+            url: "./geo/daily_nyc.geojson",
             success: function (response) {
                   geojsonLayer = L.geoJson(response, {
                     pointToLayer: pointToLayerU,
-                    onEachFeature : onEachFeatureU
                   }).addTo(umap);
               }
             }).error(function() {});
