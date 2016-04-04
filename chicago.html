@@ -34,7 +34,16 @@
       <a class="navbar-brand" href="/">Rat Maps</a>
       <ul class="nav navbar-nav">
         <li class="nav-item active">
+          <a class="nav-link" href="/chicago">Chicago <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link" href="/nyc">NYC <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/boston">Boston <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/sanfrancisco">SF <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">About</a>
@@ -51,7 +60,7 @@
       <div class="row"> <!-- daily row -->
 
         <div class="col-md-12">
-          <h3>Here are all the calls to Chicago's 311 line about rats from the last seven days.</h3>
+          <h4>Here are all the calls to Chicago's 311 line about rats from the last seven days.</h3>
           <div id="uniquecs-map" style="height: 400px"></div>
           <script>
 
@@ -100,7 +109,7 @@
       <div class="row"> <!-- annual row -->
 
         <div class="col-md-12">
-          <h4>Here are all the calls to Chicago's 311 line about rats from the year 2015.</h3>
+          <h4>And here is a heatmap of calls from the year 2015. Of all the cities whose data I have analyzed, Chicago gets the most calls complaining about rats. This map shows the geographic trends from almost 30,000 calls.</h3>
           <div id="map" style="height: 400px"></div>
           <script>
            var map = L.map('map').setView([41.87811,-87.6298], 12);
