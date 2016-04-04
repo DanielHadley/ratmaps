@@ -77,7 +77,7 @@
             url: "./geo/daily_nyc.geojson",
             success: function (response) {
                   geojsonLayer = L.geoJson(response, {
-                    pointToLayer: pointToLayerU,
+                    pointToLayer: pointToLayerU
                   }).addTo(umap);
               }
             }).error(function() {});
