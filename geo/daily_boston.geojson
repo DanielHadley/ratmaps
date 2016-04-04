@@ -480,6 +480,36 @@
         "type": "Point",
         "coordinates": [-71.075,42.3366]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0767,42.341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0098,42.3854]
+      }
     }
   ]
 }
