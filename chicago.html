@@ -24,7 +24,7 @@
 
     <!-- Heatmap Leaflet and the data: http://www.d3noob.org/2014/02/generate-heatmap-with-leafletheat-and.html -->
     <script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"></script>
-    <script src="/geo/yearly_nyc.js"></script>
+    <script src="/geo/yearly_chicago.js"></script>
 
   </head>
 
@@ -33,10 +33,10 @@
     <nav class="navbar navbar-fixed-top navbar-dark bg-inverse">
       <a class="navbar-brand" href="/">Rat Maps</a>
       <ul class="nav navbar-nav">
-        <li class="nav-item">
+        <li class="nav-item active">
           <a class="nav-link" href="/chicago">Chicago <span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item active">
+        <li class="nav-item">
           <a class="nav-link" href="/nyc">NYC <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
@@ -56,18 +56,18 @@
     <div class="container">
 
       <div class="ratmaps-main">
-        <h1>New York City</h1>
+        <h1>Chicago</h1>
       </div>
 
       <div class="row"> <!-- daily row -->
 
         <div class="col-md-12">
-          <h4>Here are all the calls to New York City's 311 line about rats from the last seven days.</h3>
+          <h4>Here are all the calls to Chicago's 311 line about rats from the last seven days.</h3>
           <div id="uniquecs-map" style="height: 400px"></div>
           <script>
 
             // initialize the map
-            var umap = L.map('uniquecs-map', {scrollWheelZoom:false}).setView([40.71278,-74.00594], 13);
+            var umap = L.map('uniquecs-map', {scrollWheelZoom:false}).setView([41.87811,-87.6298], 13);
 
             // load a tile layer
             L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', subdomains: 'abcd', maxZoom: 19}).addTo(umap);
@@ -94,7 +94,7 @@
 
             $.ajax({
             dataType: "json",
-            url: "./geo/daily_nyc.geojson",
+            url: "./geo/daily_chicago.geojson",
             success: function (response) {
                   geojsonLayer = L.geoJson(response, {
                     pointToLayer: pointToLayerU,
@@ -111,11 +111,10 @@
       <div class="row"> <!-- annual row -->
 
         <div class="col-md-12">
-          <h4>Where are New York City's rats seen most often? How many of them are there?</h4>
-          <p>One urban legend states that there is at least one rat for every New Yorker - approximately 8.5 million. But that myth was <a href="http://www.nytimes.com/2014/11/06/nyregion/8-million-rats-in-new-york-data-suggest-that-legend-is-flawed.html?_r=0">debunked</a> by a young statistician named Jonathan Auerbach, who used 311 call data to estimate the number of rats living in New York City. According to his <a href="(http://onlinelibrary.wiley.com/store/10.1111/j.1740-9713.2014.00764.x/asset/sign764.pdf;jsessionid=0B57CD44148F76769EFF4C0F738CB31B.f03t01?v=1&t=i653uwza&s=e8bf02da98f38e671bfea957e71df2b60aeca37e">award-winning research</a>, the rat population is actually more like two million. In 2015, New York City's 311 line received 15,286 calls about rodents:</p>
+          <h4>And here is a heatmap of calls from the year 2015. Of all the cities whose data I have analyzed, Chicago gets the most calls complaining about rats. This map shows the geographic trends from almost 30,000 calls.</h4>
           <div id="map" style="height: 400px"></div>
           <script>
-           var map = L.map('map').setView([40.71278,-74.00594], 13);
+           var map = L.map('map').setView([41.87811,-87.6298], 13);
 
            L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="http://cartodb.com/attributions">CartoDB</a>', subdomains: 'abcd', maxZoom: 19}
