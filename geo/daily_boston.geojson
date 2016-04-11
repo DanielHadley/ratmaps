@@ -4,46 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-04-03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.075,42.3366]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-04-03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0767,42.341]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-04-03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-04-03"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0098,42.3854]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-04-04"
       },
       "geometry": {
@@ -495,6 +455,56 @@
       "type": "Feature",
       "properties": {
         "date": "2016-04-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0704,42.3298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1258,42.2901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1258,42.2901]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-04-10"
       },
       "geometry": {
         "type": "Point",
