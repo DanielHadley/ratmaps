@@ -94,7 +94,7 @@
 
             $.ajax({
             dataType: "json",
-            url: "./geo/daily_boston.geojson",
+            url: "https://api.myjson.com/bins/2ybig",
             success: function (response) {
                   geojsonLayer = L.geoJson(response, {
                     pointToLayer: pointToLayerU,
