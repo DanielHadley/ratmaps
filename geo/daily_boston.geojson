@@ -4,16 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-05-08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1331,42.3573]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-05-09"
       },
       "geometry": {
@@ -34,51 +24,11 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-05-08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0769,42.3505]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-05-08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1128,42.3234]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-05-08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1434,42.3463]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-05-09"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-71.046,42.2917]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-05-08"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0896,42.3498]
       }
     },
     {
@@ -809,6 +759,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0528,42.2956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-05-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0749,42.3523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-05-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0896,42.3498]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-05-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-05-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1585,42.3524]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-05-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0581,42.3199]
       }
     }
   ]
