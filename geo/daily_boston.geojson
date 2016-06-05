@@ -620,6 +620,56 @@
         "type": "Point",
         "coordinates": [-71.0599,42.3186]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-06-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0528,42.3276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-06-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-06-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-06-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0152,42.3836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-06-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1131,42.308]
+      }
     }
   ]
 }
