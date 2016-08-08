@@ -4,56 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-07-31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-07-31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0647,42.361]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-07-31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0492,42.3372]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-07-31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0186,42.3834]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-07-31"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-08-01"
       },
       "geometry": {
@@ -969,6 +919,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0534,42.3739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0366,42.3731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.032,42.3776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.067,42.3523]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0646,42.2927]
       }
     }
   ]
