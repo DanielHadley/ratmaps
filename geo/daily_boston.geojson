@@ -800,6 +800,46 @@
         "type": "Point",
         "coordinates": [-71.0707,42.3259]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0645,42.3432]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0717,42.382]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0541,42.3151]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-08-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
     }
   ]
 }
