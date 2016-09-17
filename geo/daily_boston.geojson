@@ -4,116 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0524,42.3748]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0655,42.3045]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1634,42.2695]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1228,42.3106]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0548,42.315]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0582,42.3756]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0878,42.2833]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0758,42.2873]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-09-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0777,42.3367]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-09-10"
       },
       "geometry": {
@@ -899,6 +789,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0659,42.3172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0569,42.316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0564,42.3161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0581,42.3024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0873,42.2843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0757,42.3363]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0782,42.3836]
       }
     }
   ]
