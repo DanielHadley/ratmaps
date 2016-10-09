@@ -4,46 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-10-01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0639,42.3537]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-10-01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0513,42.3102]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-10-01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0862,42.3457]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-10-01"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0754,42.3369]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-10-02"
       },
       "geometry": {
@@ -609,6 +569,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0494,42.3357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-10-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0658,42.3588]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-10-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0543,42.2903]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-10-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0393,42.3773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-10-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0839,42.3297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-10-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0608,42.3172]
       }
     }
   ]
