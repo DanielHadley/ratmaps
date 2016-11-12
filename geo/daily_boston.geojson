@@ -4,76 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0566,42.2953]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0804,42.3423]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0579,42.3022]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1033,42.3341]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-04"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0709,42.2952]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-11-05"
       },
       "geometry": {
@@ -469,6 +399,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0694,42.2753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-11-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.064,42.3103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-11-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
       }
     }
   ]
