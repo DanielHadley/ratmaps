@@ -4,96 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0794,42.3133]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0899,42.3129]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1372,42.2907]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.09,42.3128]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0832,42.3289]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0546,42.3302]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-11-17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0898,42.3131]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-11-18"
       },
       "geometry": {
@@ -375,6 +285,16 @@
       "type": "Feature",
       "properties": {
         "date": "2016-11-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-11-24"
       },
       "geometry": {
         "type": "Point",
