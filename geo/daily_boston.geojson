@@ -280,6 +280,26 @@
         "type": "Point",
         "coordinates": [-71.0859,42.336]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-12-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0762,42.3186]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2016-12-19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0551,42.3675]
+      }
     }
   ]
 }
