@@ -14,16 +14,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-12-25"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.075,42.3366]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-12-26"
       },
       "geometry": {
@@ -319,6 +309,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0588,42.3595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0996,42.316]
       }
     }
   ]
