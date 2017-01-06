@@ -4,56 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2016-12-29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0543,42.3669]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-12-29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0847,42.3497]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-12-29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0602,42.3598]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-12-29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0675,42.3649]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2016-12-29"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0219,42.3822]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2016-12-30"
       },
       "geometry": {
@@ -329,6 +279,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0755,42.3365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0866,42.3294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0878,42.3507]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0759,42.3369]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0587,42.3594]
       }
     }
   ]
