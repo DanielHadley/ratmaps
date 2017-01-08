@@ -300,6 +300,16 @@
         "type": "Point",
         "coordinates": [-71.0939,42.3465]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-01-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1416,42.3541]
+      }
     }
   ]
 }
