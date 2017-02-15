@@ -4,41 +4,11 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2017-02-07"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0777,42.3179]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-07"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0828,42.3489]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2017-02-08"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-07"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0385,42.3759]
       }
     },
     {
