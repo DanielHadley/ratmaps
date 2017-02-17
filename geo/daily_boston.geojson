@@ -4,56 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2017-02-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0804,42.3423]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.1037,42.3227]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0756,42.3539]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0587,42.3594]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-02-09"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-71.0592,42.295]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2017-02-10"
       },
       "geometry": {
@@ -199,6 +149,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-71.0757,42.3262]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0641,42.3109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.084,42.3145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1011,42.3118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0295,42.3333]
       }
     }
   ]
