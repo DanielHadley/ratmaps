@@ -280,6 +280,46 @@
         "type": "Point",
         "coordinates": [-71.0407,42.2872]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0678,42.3483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1007,42.3112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.0566,42.2888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-02-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1045,42.3215]
+      }
     }
   ]
 }
