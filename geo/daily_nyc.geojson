@@ -14,191 +14,11 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-74.0088620441563,40.6531976218078]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9907620344483,40.7653458475533]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8529238733966,40.8264818328636]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9239449016008,40.6924697834042]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9379408809795,40.8232103699305]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9206299317278,40.6933211683634]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8564348818426,40.8337048634261]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8498583513311,40.6861965305141]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2017-03-20"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9802893321438,40.6803640830646]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9054603663188,40.8501057055927]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9339720632032,40.6427543199036]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.943926918655,40.8371648172587]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8354823313547,40.6979080392322]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.953065884734,40.638166180913]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9278733352623,40.8344688224923]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9183593103144,40.8071827194074]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9773217605244,40.670748590403]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9907620344483,40.7653458475533]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9488248476473,40.7887392261937]
       }
     },
     {
@@ -224,61 +44,11 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.787274304047,40.6894876569574]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9381326227721,40.7063585728178]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9011377286773,40.8717138546454]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2017-03-20"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.8501032712641,40.6847119263316]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9054523879791,40.8557186194076]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9228086041568,40.851661142467]
       }
     },
     {
@@ -294,41 +64,11 @@
     {
       "type": "Feature",
       "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8691768883027,40.8667415913131]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "date": "2017-03-20"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-73.8854985071501,40.7169240199466]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8874605331097,40.832517913456]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.9217634907934,40.8643546822414]
       }
     },
     {
@@ -349,36 +89,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-73.8593963219798,40.7131457522074]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8324659973933,40.7587522926975]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.8772425873165,40.8258707653198]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "date": "2017-03-19"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.787274304047,40.6894876569574]
       }
     },
     {
@@ -2529,6 +2239,716 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-73.9110492312725,40.6792911195294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9872485694589,40.6760008743422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9737940475089,40.7954914112144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8668667186252,40.8431976151323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9329738982536,40.7539909257818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9054523879791,40.8557186194076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8681048607286,40.849440505777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9086623999955,40.8241433128957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9418441365228,40.8178464799961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9630489121085,40.7964820592755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9990330478105,40.7291676810909]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9100989508816,40.6754833773181]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.1308051473303,40.633361108458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9224110394958,40.7059757612229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.977251701398,40.6542030485289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9621514984646,40.6851574088149]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.983220013789,40.7826533139583]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9511569319652,40.6716736814378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9034216391252,40.8750670605563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8114248788022,40.6824372605126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8490453257617,40.7283770576969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8854985071501,40.7169240199466]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9389749772518,40.8184625590723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8046604334639,40.7330752223935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.958927523347,40.8147934680362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9456520072136,40.8356176259957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9571273617735,40.6650062521882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.933222598694,40.7687385794147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9885228040088,40.6875647355722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9688753754745,40.8024425829051]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8958953690322,40.820583572089]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9620761202706,40.7162583309727]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9694867986185,40.6190405279696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9854999568948,40.6765194296372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9626235816144,40.7949723211643]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.970452471771,40.61018882116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9215937143274,40.8642310555754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7339236867057,40.6536861836983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.867352863879,40.8440874613473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9127724114683,40.8337777012203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9571490663352,40.8051588434559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9577709618972,40.6846398675087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9910752491494,40.7178424684753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9499299941193,40.6541504832542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9562960764883,40.6904252940539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9125608257385,40.8490408708286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9645303418137,40.8020570661895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.898577329076,40.8269591979292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7703861272493,40.7549233961403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9526917098379,40.6526392773305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.917713719433,40.853120548201]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9775650170349,40.6441709273569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8024676460911,40.7144702115435]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9593360940755,40.8142391792494]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9949215100615,40.7552921102805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8615413443184,40.8665542763436]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9620415433797,40.6186183574184]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7534781965396,40.6889590982527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9268505868221,40.8608173576848]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9220607404159,40.5860421565293]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9080968700887,40.8542770424022]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.989806373924,40.7117242907415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9569540276218,40.6654947580121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8485370469025,40.7123058023562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-24"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9627888676126,40.6478780439183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9508264337004,40.8265706280492]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9307874442568,40.6802433983697]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8767878497173,40.7475273044749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8012795438376,40.6895044593891]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9641350380945,40.7983186255773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9873957309981,40.6412876558102]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "date": "2017-03-26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.1384777061879,40.632627499057]
       }
     }
   ]
